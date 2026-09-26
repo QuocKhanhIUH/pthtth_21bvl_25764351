@@ -1,3 +1,0 @@
-Java I/0 làm việc với các luồng dữ liệu.
-BufferedWriter giúp ghi văn bản hiệu quả.
-UTF-8 hỗ trợ tiếng Việt ổn định
